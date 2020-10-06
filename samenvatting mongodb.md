@@ -1,5 +1,9 @@
 # MongoDB samenvatting
 Dit is een Nederlands/ deels engelse korte samenvatting van het boek 'The little MongoDB boek'. Src= https://www.openmymind.net/mongodb.pdf
+### Authors
+
+* **R. Boudewijn** - [nxttx](https://github.com/nxttx)
+* **Naam** - [username](https://github.com/username)
 
 ## Chapter one
 
